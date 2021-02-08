@@ -1,6 +1,6 @@
 
 import  './MyCss.css';
-
+import Anuj from './Anuj.js';
 
 
 function App()
@@ -63,6 +63,9 @@ function App()
 
                 
       </table>
+
+
+      <Anuj />
 
     
 
